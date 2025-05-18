@@ -1,4 +1,3 @@
-m
 
 This project demonstrates the deployment of a 3-tier application architecture using Terraform. The 3-tier architecture typically consists of:
 
