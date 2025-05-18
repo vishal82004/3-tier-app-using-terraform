@@ -60,6 +60,4 @@ This project demonstrates the deployment of a 3-tier application architecture us
 - Modify variables in `variables.tf` to suit your environment.
 - Extend modules for additional features or providers.
 
-## License
 
-This project is licensed under the MIT License.
