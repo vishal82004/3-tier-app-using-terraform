@@ -50,19 +50,10 @@ This project demonstrates the deployment of a 3-tier application architecture us
     terraform destroy
     ```
 
-## Project Structure
+## Project Architecture
 
-```
-terraform/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── modules/
-│   ├── network/
-│   ├── app/
-│   └── db/
-└── README.md
-```
+![image](https://github.com/user-attachments/assets/86d1c76f-cc8b-4cd2-8dd4-300659026396)
+
 
 ## Customization
 
